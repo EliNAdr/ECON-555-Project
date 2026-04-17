@@ -1,0 +1,14 @@
+Country Name,Country Code,Series Name,Series Code,2023 [YR2023]
+Canada,CAN,GDP (current US$),NY.GDP.MKTP.CD,2.17334E+12
+Canada,CAN,"Population, total",SP.POP.TOTL,40083484
+Mexico,MEX,GDP (current US$),NY.GDP.MKTP.CD,1.79832E+12
+Mexico,MEX,"Population, total",SP.POP.TOTL,129739759
+United States,USA,GDP (current US$),NY.GDP.MKTP.CD,2.72922E+13
+United States,USA,"Population, total",SP.POP.TOTL,336806231
+rest of World,RWLD,GDP (current US$),NY.GDP.MKTP.CD,7.54778E+13
+rest of World,RWLD,"Population, total",SP.POP.TOTL,7493370526
+,,,,
+,,,,
+,,,,
+Data from database: World Development Indicators,,,,
+Last Updated: 02/24/2026,,,,
